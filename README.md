@@ -1,2 +1,2 @@
 # demo
-This is my Git hyb repo
+This is my Git hub repo
